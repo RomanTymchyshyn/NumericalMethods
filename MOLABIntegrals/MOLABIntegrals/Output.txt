@@ -1,0 +1,7 @@
+First task:
+Trapezium formula:
+0.07382307304
+Simpson's formula:
+0.07383978325
+Second task:
+1.570810116
